@@ -1,0 +1,45 @@
+html {
+}
+
+body {
+    
+    color: Black;
+    font-family: 'Karma', serif;
+    font-size: 16px;
+   
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:black ;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+h3 {
+      margin-right: 1250px;
+    border-style: double;
+    margin-bottom: 50px
+    
+}
+img {
+
+
+}
+
+p{
+    position: absolute;
+    font-size: 50px;
+    width: auto;
+    font-family: 'Karma', serif;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 250px;
+    text-align: center;
+    float: top;
+   
+}
